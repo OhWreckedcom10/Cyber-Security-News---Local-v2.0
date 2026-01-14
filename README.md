@@ -1,0 +1,20 @@
+# Cyber Security Newsletter
+
+A Python-based cybersecurity news aggregator that:
+- Collects top stories from trusted sources
+- Scores and ranks risk automatically
+- Generates a Financial-Times–style PDF newsletter
+- (Optional) Sends via WhatsApp
+
+## Features
+- Landscape PDF layout
+- Blue-spectrum professional design
+- Duplicate detection
+- Smart URL wrapping
+- Image-free summaries
+- Top-10 daily briefing
+
+## Run locally
+```bash
+pip install -r requirements.txt
+python cyber-daily-news.py
