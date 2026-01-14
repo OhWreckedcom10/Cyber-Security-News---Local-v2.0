@@ -44,3 +44,7 @@ if ($status) {
 } else {
   Write-Host "ℹ️ No git changes to commit."
 }
+
+
+
+#test
