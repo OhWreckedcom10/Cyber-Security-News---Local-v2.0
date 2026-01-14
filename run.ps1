@@ -21,3 +21,10 @@ $env:OUT_DIR = "out"
 # $env:TO_WHATSAPP = "whatsapp:+..."
 
 & $python ".\cyber-daily-news.py"
+
+
+
+
+#test
+#test
+#test
